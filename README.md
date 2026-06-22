@@ -1,4 +1,4 @@
-# Analyse-du-march-de-fitness-avec-Google-Trends
+# Analyse-du-marché-de-fitness-avec-Google-Trends
 
 Dans ce projet, j'analyse des données Google Trends afin d'étudier l'évolution de la demande pour les entraînements sportifs et les solutions de fitness numériques.
 
